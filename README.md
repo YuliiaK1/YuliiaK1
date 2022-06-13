@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @YuliiaK1
+<img src="https://github.com/YuliiaK1/YuliiaK1/blob/main/header.png?raw=true" alt="ReadmiFotoTitle">
+
+- 👋 Hi everyone
 - 👀 I’m interested in programming, technology, psychology, life, and everything
 - 🌱 I’m currently trying practice a lot, learn new technologies, look for a job to be useful!
 - 📫 How to reach me svistaky@gmail.com
