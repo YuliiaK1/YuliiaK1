@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuliiaK1
-- 👀 I’m interested in technology, psychology, life, and everything
-- 🌱 I’m currently trying practice a lot, learn new technologies, look for a job being helpful!
+- 👀 I’m interested in programming, technology, psychology, life, and everything
+- 🌱 I’m currently trying practice a lot, learn new technologies, look for a job to be useful!
 - 📫 How to reach me svistaky@gmail.com
 - 🌍 I speak Russian (native), English (A2)
 
