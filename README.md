@@ -3,7 +3,7 @@
 
 - 👋 Hi everyone
 - 👀 I’m interested in programming, technology, psychology, life, and everything
-- 💼 I have some interesting projects
+- 💼 I have really interesting projects
 - 🌱 I’m currently trying practice a lot, learn new technologies, look for a job to be useful!
 - 📫 How to reach me svistaky@gmail.com
 - 🌍 I speak Russian (native), English (A2)
